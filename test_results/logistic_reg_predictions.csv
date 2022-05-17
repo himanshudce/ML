@@ -22,7 +22,7 @@ F,Palestine,Palestine,lowerlevel,G-04,A,Science,S,Mum,62,64,72,84,Yes,Good,Under
 M,Jordan,SaudiArabia,lowerlevel,G-02,B,Arabic,S,Mum,5,0,1,8,No,Good,Above-7,L,L
 M,SaudiArabia,SaudiArabia,lowerlevel,G-02,B,IT,F,Father,7,12,5,3,No,Bad,Above-7,M,L
 M,Jordan,Jordan,MiddleSchool,G-07,A,IT,F,Father,39,40,11,33,No,Bad,Under-7,M,M
-F,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Mum,70,64,42,32,No,Bad,Under-7,M,M
+F,Jordan,Jordan,MiddleSchool,G-06,A,English,F,Mum,70,64,42,32,No,Bad,Under-7,M,H
 M,KW,KuwaIT,MiddleSchool,G-08,B,Arabic,S,Father,67,31,42,14,Yes,Good,Under-7,M,M
 M,Iraq,Iraq,MiddleSchool,G-08,A,Chemistry,S,Father,80,90,80,83,Yes,Good,Under-7,H,H
 F,Jordan,Egypt,MiddleSchool,G-07,A,Quran,F,Mum,100,80,95,90,No,Bad,Under-7,H,H
@@ -38,7 +38,7 @@ F,lebanon,lebanon,MiddleSchool,G-06,A,English,S,Mum,90,62,80,60,Yes,Good,Under-7
 M,KW,KuwaIT,MiddleSchool,G-08,A,Spanish,S,Father,5,17,21,10,No,Bad,Above-7,L,L
 M,KW,KuwaIT,lowerlevel,G-04,A,IT,F,Father,5,1,0,11,No,Bad,Above-7,L,L
 M,lebanon,lebanon,MiddleSchool,G-08,C,Spanish,S,Father,77,69,41,13,Yes,Good,Under-7,M,M
-M,KW,KuwaIT,lowerlevel,G-02,B,French,S,Mum,30,12,29,23,No,Bad,Under-7,M,L
+M,KW,KuwaIT,lowerlevel,G-02,B,French,S,Mum,30,12,29,23,No,Bad,Under-7,M,M
 F,Jordan,Jordan,MiddleSchool,G-08,A,Chemistry,F,Father,15,97,22,10,Yes,Good,Under-7,H,M
 M,KW,KuwaIT,MiddleSchool,G-07,A,Math,F,Father,35,12,0,17,No,Bad,Above-7,L,L
 F,Palestine,Jordan,lowerlevel,G-02,B,French,S,Father,79,89,11,14,No,Good,Under-7,M,M
